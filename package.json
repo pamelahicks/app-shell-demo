@@ -1,0 +1,11 @@
+{
+  "name": "app-shell-demo",
+  "version": "1.0.0",
+  "description": "Very hot app",
+  "main": "index.js",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": true,
+    "semi": true
+  }
+}
